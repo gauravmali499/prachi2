@@ -1,0 +1,26 @@
+.navbar {
+    position: sticky;
+    top: 0;
+}
+
+#logo {
+    background-color: #11aaba;
+    width: 60px;
+    height: 60px;
+
+}
+
+#imagediv {
+    position: relative;
+    text-align: center;
+    color: white;
+    /* height: 1300px; */
+}
+
+#showdiv {
+    color: #008b8b;
+    position: absolute;
+    /* top: 10%;
+    left: 40%;
+    transform: translate(-50%, -50%); */
+}

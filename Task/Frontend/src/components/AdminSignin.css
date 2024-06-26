@@ -1,0 +1,16 @@
+#logo {
+    background-color: #11aaba;
+    width: 60px;
+    height: 60px;
+    /* margin-top: -6px; */
+}
+
+#navbar {
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+
+#des {
+    z-index: -1;
+}
